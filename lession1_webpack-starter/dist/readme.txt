@@ -1,1 +1,0 @@
-You shouldn't edit anything in ./dist/*

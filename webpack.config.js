@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 module.exports = {
   devtool: 'inline-source-map',
   devServer: {
-    contentBase: "./build",
+    static: "./build",
   },
   entry: "./src/index.js", // Dẫn tới file index.js ta đã tạo
   output: {

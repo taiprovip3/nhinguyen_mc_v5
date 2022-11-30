@@ -1,0 +1,12 @@
+#backgroundGify{
+    background-image: url("https://64.media.tumblr.com/e0bca22315d50ac928274d75649da0b6/479645adfecf60cf-46/s640x960/0537f1251e7dc84f9827939795c621e303c5ad0d.gifv");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+#OneFeature{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+#IconShadow{
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}

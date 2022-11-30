@@ -5,7 +5,9 @@
     box-sizing: border-box;
 }
 #OneFeature{
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+    width: 100%;
+    font-size: larger;
 }
 #IconShadow{
     box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
